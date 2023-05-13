@@ -150,6 +150,6 @@ int main() {
     cout << "Año: " << camion1.getYear() << endl;
     cout << "Tipo de combustible: " << camion1.getTipoCombustible() << endl;
     cout << "Capacidad de carga: " << camion1.getCapacidadCarga() << endl;
-    cout << "Nombre del cliente: " << camioneta1.getNombreCliente() << endl;
+    cout << "Nombre del cliente: " << camion1.getNombreCliente() << endl;
     cout << "=============================="<<endl;
 };
